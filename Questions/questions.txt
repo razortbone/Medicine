@@ -1,0 +1,79 @@
+
+
+
+
+Why do the prices of branded medicines vary so much by brand in India when the content is same?
+
+For example, there are 12 different brands offering the exact same thing Digoxin and the price ranges from 20 paise 
+per tablet (brand name Digox by Cadila)  to nearly 2 rupees per tablet (brand name Lanoxin by Glaxo).
+ 
+Source: http://www.medguideindia.com
+
+
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Apart from the earlier answer, there are a couple of points that need to be considered
+1) A medicine is not just made of the active ingredients which are mentioned in the constituents.
+Along with the active constituent major bulk of the medicine is made up of chemicals/additives that affect the
+stability and absorption of the medicine. This can significantly affect the effectiveness of the medicine.
+2) Many companies distribute the cost of research of new drugs to its existing drugs to sustain in the market. 
+Pharmaceutical Industry is highly research oriented and without funds it would not be able to sustain. Hence mostly 
+the companies which are actually involved in research may charge more, while copy makers can charge cheap. Both the 
+groups of companies are important to the Indian context.
+3) From the business perspective, the rates may vary based on the strategy being deployed by the company. Some companies 
+are focused on certain areas for the sale of the medicines. They do not have the volumes but cater to markets that the bulk
+manufactures cannot reach. For such companies to sustain, the medicines may be charged at a premium.
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Typically, pharma companies charge different prices because they can! (*as long as there is no price control imposed on that drug) 
+
+A detour about the normal life of a drug:
+
+When a drug is introduced into the market, it is usually under a patent that has a life of about 10 years remaining.
+During this period, the company that holds the patent for the drug can charge whatever price they want for the drug 
+(the price covered by insurance especially in more developed markets like the US is usually "negotiated" lower price
+because the insurance providers have more leverage)
+
+In India, any drug that is not deemed critical and isn't under price control, is also allowed this freedom. 
+
+Now the part that is often missed: The reason why the patent holding pharma company charges high prices 
+(>90% gross margins) for such a drug is related to the R&D costs that go into drug discovery. In order to obtain
+a "blockbuster" drug (often defined as a drug with potential >$1 bn annual sales), the pharma company has to suffer 
+multiple misses; IIRC a success rate of <10%. In order to break even on these misses, the pharma company has to price
+at what seems like high margin prices.
+
+Post the patent expiry, any pharma company can manufacture and sell the drug. Such a drug is then called a generic and
+the companies that produce only generics (and do limited drug discovery) are called generic manufacturers/producers. 
+With lower R&D, generic producers can charge lower prices for the generic drugs than the price charged during the patent
+period. Now, theoretically, pricing is competitive and determined by market forces and hence should correct over time.
+
+This is where we get to the question: why then are prices ranging such a spectrum and not converting to a single (lower) price?
+
+My guess is that drugs that have created a name/brand for themselves during the patent period will capitalize on this and 
+charge higher than competitor products, even if the constituents are the same. Similar to any other branded product? I guess,
+except the brand awareness is more at the doctor level rather than the consumer level! How many of us know which drug is
+patented and which is generic, let alone what options exist, if any? We rely mostly on our doctors' prescriptions.
+
+So, are some pharma companies at fault for pricing higher than generic producers? Legally, no for sure but ethically, 
+maybe but more likely no IMHO. Not surely yes because if free markets are trusted then the price should correct to the 
+"right" level. The information asymmetry that is only somewhat under the pharma company's control skews the free market 
+correction. So maybe it is the Goverment's role to fill in this void by awareness building or as in the SMJ episode by
+setting up generic pharma retailer outlets.
+
+PS: What about doctors who prescribe and pharma retailers that sell higher priced drugs when cheaper exist? Somewhere
+between ignorance and greed. Hopefully more of the former.
+
+--------------------------------------------------------------------------------------------------------------------------
+
+I work in a pharma company and I asked my boss this question. He said that ours is a reputed company and people expect our
+products to be at a premium. They think the medicine is better if the price is more. 
+
+Also most pharma companies have outsourced their manufacturing to a third party. Now the best pharma companies pick the best
+of the produce say a grade A medicine and a generic company may pick a grade C medicine. The grades are purely subjective and
+signify the intangible aspects like quick acceptance by body and solvents and diluents involved. Thus the manufacturing cost 
+is different for companies having same combination. 
+
+And thus there is a price difference.
